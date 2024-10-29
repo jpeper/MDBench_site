@@ -1,7 +1,7 @@
 # MDBench
 
 ### Authors
-- **Joseph Peper**
+- **Joseph J. Peper**
 
 **Affiliation**: UMich
 
